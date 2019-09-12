@@ -1,0 +1,9 @@
+{
+  "campaignDirectionInstanceRecord" : {
+    "prospectCampaignDevelopmentSchedule" : "prospectCampaignDevelopmentSchedule",
+    "prospectCampaignExecutionSchedule" : "prospectCampaignExecutionSchedule"
+  },
+  "campaignDirectionUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "campaignDirectionUpdateActionTaskReference" : "CDUATR714645"
+}

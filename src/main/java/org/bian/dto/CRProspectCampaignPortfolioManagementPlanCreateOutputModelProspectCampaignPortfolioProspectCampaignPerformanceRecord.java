@@ -1,0 +1,33 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.CRProspectCampaignPortfolioManagementPlanCreateOutputModelProspectCampaignPortfolioProspectCampaignPerformanceRecordProspectCampaignProcedureInstanceReference;
+
+import javax.validation.Valid;
+  
+/**
+ * CRProspectCampaignPortfolioManagementPlanCreateOutputModelProspectCampaignPortfolioProspectCampaignPerformanceRecord
+ */
+public class CRProspectCampaignPortfolioManagementPlanCreateOutputModelProspectCampaignPortfolioProspectCampaignPerformanceRecord   {
+  private CRProspectCampaignPortfolioManagementPlanCreateOutputModelProspectCampaignPortfolioProspectCampaignPerformanceRecordProspectCampaignProcedureInstanceReference prospectCampaignProcedureInstanceReference = null;
+
+
+  /**
+   * Get prospectCampaignProcedureInstanceReference
+   * @return prospectCampaignProcedureInstanceReference
+  **/
+
+  public CRProspectCampaignPortfolioManagementPlanCreateOutputModelProspectCampaignPortfolioProspectCampaignPerformanceRecordProspectCampaignProcedureInstanceReference getProspectCampaignProcedureInstanceReference() {
+    return prospectCampaignProcedureInstanceReference;
+  }
+
+  public void setProspectCampaignProcedureInstanceReference(CRProspectCampaignPortfolioManagementPlanCreateOutputModelProspectCampaignPortfolioProspectCampaignPerformanceRecordProspectCampaignProcedureInstanceReference prospectCampaignProcedureInstanceReference) {
+    this.prospectCampaignProcedureInstanceReference = prospectCampaignProcedureInstanceReference;
+  }
+
+
+}
+

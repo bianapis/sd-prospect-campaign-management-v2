@@ -1,0 +1,31 @@
+{
+  "prospectCampaignPortfolio" : {
+    "prospectCampaignMetrics" : {
+      "prospectCampaignMetricDefinition" : "prospectCampaignMetricDefinition",
+      "prospectCampaignMetricGoal" : "prospectCampaignMetricGoal"
+    },
+    "prospectCampaignPerformanceRecord" : {
+      "prospectCampaignProcedureInstanceReference" : {
+        "prospectCampaignProcedureResult" : "prospectCampaignProcedureResult",
+        "employeeBusinessUnitReference" : "732001",
+        "prospectCampaignProcedureSetup" : "prospectCampaignProcedureSetup",
+        "prospectCampaignProcedureVersionNumber" : "prospectCampaignProcedureVersionNumber"
+      }
+    },
+    "prospectCampaignType" : "prospectCampaignType",
+    "prospectCampaignDescription" : "prospectCampaignDescription"
+  },
+  "prospectCampaignPortfolioManagementPlanRetrieveActionTaskRecord" : {},
+  "prospectCampaignPortfolioManagementPlanRetrieveActionResponse" : "prospectCampaignPortfolioManagementPlanRetrieveActionResponse",
+  "prospectCampaignPortfolioManagementPlanInstanceReportRecord" : {
+    "prospectCampaignPortfolioManagementPlanInstanceReportData" : "prospectCampaignPortfolioManagementPlanInstanceReportData",
+    "prospectCampaignPortfolioManagementPlanInstanceReportType" : "prospectCampaignPortfolioManagementPlanInstanceReportType",
+    "prospectCampaignPortfolioManagementPlanInstanceReport" : {}
+  },
+  "prospectCampaignPortfolioManagementPlanInstanceAnalysis" : {
+    "prospectCampaignPortfolioManagementPlanInstanceAnalysisReport" : {},
+    "prospectCampaignPortfolioManagementPlanInstanceAnalysisData" : "prospectCampaignPortfolioManagementPlanInstanceAnalysisData",
+    "prospectCampaignPortfolioManagementPlanInstanceAnalysisReportType" : "prospectCampaignPortfolioManagementPlanInstanceAnalysisReportType"
+  },
+  "prospectCampaignPortfolioManagementPlanRetrieveActionTaskReference" : "PCPMPRATR718236"
+}

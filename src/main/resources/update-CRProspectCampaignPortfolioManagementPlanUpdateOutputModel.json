@@ -1,0 +1,21 @@
+{
+  "prospectCampaignPortfolio" : {
+    "prospectCampaignMetrics" : {
+      "prospectCampaignMetricDefinition" : "prospectCampaignMetricDefinition",
+      "prospectCampaignMetricGoal" : "prospectCampaignMetricGoal"
+    },
+    "prospectCampaignPerformanceRecord" : {
+      "prospectCampaignProcedureInstanceReference" : {
+        "prospectCampaignProcedureResult" : "prospectCampaignProcedureResult",
+        "employeeBusinessUnitReference" : "735136",
+        "prospectCampaignProcedureSetup" : "prospectCampaignProcedureSetup",
+        "prospectCampaignProcedureVersionNumber" : "prospectCampaignProcedureVersionNumber"
+      }
+    },
+    "prospectCampaignType" : "prospectCampaignType",
+    "prospectCampaignDescription" : "prospectCampaignDescription"
+  },
+  "prospectCampaignPortfolioManagementPlanUpdateActionTaskRecord" : {},
+  "prospectCampaignPortfolioManagementPlanUpdateActionTaskReference" : "PCPMPUATR700777",
+  "updateResponseRecord" : {}
+}

@@ -1,0 +1,13 @@
+{
+  "prospectCampaignPortfolio" : {
+    "prospectCampaignMetrics" : {
+      "prospectCampaignMetricDefinition" : "prospectCampaignMetricDefinition"
+    },
+    "prospectCampaignType" : "prospectCampaignType",
+    "prospectCampaignDescription" : "prospectCampaignDescription"
+  },
+  "requestRecordReference" : "RRR761496",
+  "prospectCampaignPortfolioManagementPlanRequestActionTaskReference" : "PCPMPRATR752242",
+  "requestResponseRecord" : {},
+  "prospectCampaignPortfolioManagementPlanRequestActionTaskRecord" : {}
+}

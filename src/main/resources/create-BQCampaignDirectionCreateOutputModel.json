@@ -1,0 +1,10 @@
+{
+  "campaignDirectionInitiateActionReference" : "CDIAR756978",
+  "campaignDirectionInstanceRecord" : {
+    "prospectCampaignDevelopmentSchedule" : "prospectCampaignDevelopmentSchedule",
+    "prospectCampaignExecutionSchedule" : "prospectCampaignExecutionSchedule"
+  },
+  "campaignDirectionInitiateActionRecord" : {},
+  "campaignDirectionInstanceStatus" : "campaignDirectionInstanceStatus",
+  "campaignDirectionInstanceReference" : "CDIR770638"
+}
